@@ -23,7 +23,7 @@ por voz).</p>
  
  ![JAVASCRIPT](https://github.com/user-attachments/assets/88c3e884-bc23-4af2-97c1-eea3b9a02f2c)Para o funcionamento de todo o nosso site utilizamos o javascript que foi responsável por criar funções e o envio de  formulários.
 
- **Para o Back End nós usamos :**
+ **Para o Back End nós usamos :** <br>
 ![Python](https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg) Código central usado para carregar os modelos de ia, fazer a conexão do front end com o back end.
 
 ![Flask](https://github.com/gui-bus/TechIcons/blob/main/Light/Flask.svg) Código central usado para carregar os modelos de ia, fazer a conexão do front end com o back end.
