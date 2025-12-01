@@ -25,8 +25,8 @@ por voz).</p>
  <hr>
  <br>
 
- **Para o Back End nós usamos :** <br>
-<img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg" alt="Sample Image" width="400" height="200" margin='100'>Código central usado para carregar os modelos de ia, fazer a conexão do front end com o back end.
+ **Para o Back End nós usamos :** 
+<img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg" alt="Sample Image" width="400" height="200">Código central usado para carregar os modelos de ia, fazer a conexão do front end com o back end.
 
 ![Flask](https://github.com/gui-bus/TechIcons/blob/main/Light/Flask.svg) Código central usado para carregar os modelos de ia, fazer a conexão do front end com o back end.
 
